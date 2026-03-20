@@ -1,0 +1,32 @@
+# Customer Sales Analysis (SQL)
+
+## Overview
+This project focuses on analyzing customer sales data using SQL to generate insights on revenue, customer behavior, and product performance.
+
+## Dataset Description
+The dataset includes:
+- Customer details  
+- Product information  
+- Sales transactions  
+
+## Objectives
+- Identify top customers based on total spending  
+- Analyze sales performance by product category  
+- Track monthly revenue trends  
+- Understand customer purchase behavior  
+
+## SQL Concepts Used
+- SELECT, WHERE, ORDER BY  
+- GROUP BY & Aggregate Functions  
+- JOINS  
+- Subqueries  
+- Window Functions  
+
+## Tools Used
+SQL (MySQL/PostgreSQL)
+
+## Outcome
+- Identified top revenue-generating customers  
+- Analyzed product category performance  
+- Generated monthly sales trends  
+- Improved understanding of customer purchasing patterns  
